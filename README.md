@@ -39,5 +39,8 @@ PostgreSQL: Banco de dados relacional utilizado no projeto.
 
 JWT: Biblioteca para geração e validação de tokens JWT.
 
-
 ---
+
+<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/675105b9-d5b3-4901-a5c9-4e647567d5cc" />
+
+
